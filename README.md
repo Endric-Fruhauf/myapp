@@ -44,4 +44,5 @@ Executando o comando ./gradlew signingReport no terminal.
 Ou utilizando:
 
 " keytool -exportcert -keystore "caminho_do_debug.keystore (exemplo: C:\Users\seuUsuario\.android\debug.keystore)" -list -v  "
+
 No Firebase, acesse as configurações do projeto, vá até "Apps Android", e insira a chave SHA-1 na seção de impressões digitais.
