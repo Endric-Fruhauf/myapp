@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "51398852641",
+    "project_id": "n3tassiana",
+    "storage_bucket": "n3tassiana.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51398852641:android:b8ce9b0df8507f534fa360",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51398852641-g2rt3j77is0kqv64o8oodfrc00d2gsgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapp",
+            "certificate_hash": "b23c3a9377863a454807709048f2ad8a6f0e35dd"
+          }
+        },
+        {
+          "client_id": "51398852641-bvq6agjpbpqc3odi0qc9mk1o8i991dc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtA8SAOD12XhabqEman1yFNeFTSFV8AIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51398852641-bvq6agjpbpqc3odi0qc9mk1o8i991dc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
