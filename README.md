@@ -6,13 +6,21 @@ Tela Home: Ao efetuar o login é direcionado para a tela Home, onde há um botã
 
 
 Depêndencias utilizadas:
+
 firebase_auth: ^5.3.3
+
 google_sign_in: ^6.2.2
+
 firebase_core: ^3.8.0
+
 flutter_launcher_icons: ^0.13.1
+
 Versões do Flutter/Dart:
+
 Flutter 3.24.3
+
 Dart 3.5.3
+
 Versão mínima do SDK: 23
 
 
